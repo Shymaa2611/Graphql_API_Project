@@ -1,11 +1,8 @@
 import strawberry
 from typing import List
 from .models import Author,Post
-from .types import BlogPostType,AuthorType
+from .types import BlogPostType
 
-
-# Query
-# GET or READ
 @strawberry.type
 class Query:
     @strawberry.field
