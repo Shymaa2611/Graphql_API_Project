@@ -12,5 +12,5 @@ steps:-
     
    run http://127.0.0.1:8000/graphql
 
-   - graphql.jpg
+   - ttp://127.0.0.1:8000/graphql.jpg
    - graphql_api.jpg
