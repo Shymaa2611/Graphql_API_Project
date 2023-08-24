@@ -4,11 +4,9 @@ steps:-
 <p> 2- add  "strawberry" to INSTALLED_APPS</p>
 <p> 3- create schema.py file and types.py file in your app</p>
 <p> 4- add this in project/urls.py</p>
-<p>  from strawberry.django.views import GraphQLView
-      from api.schema import schema
-      urlpatterns = [
-       path("graphql", GraphQLView.as_view(schema=schema))
-    ]</p>
+<p>  from strawberry.django.views import GraphQLView</p>
+  <p>from api.schema import schema</p>
+    <p> urlpatterns = [path("graphql", GraphQLView.as_view(schema=schema))]</p> 
      
     <p> run http://127.0.0.1:8000/graphql</p>
   
