@@ -11,8 +11,9 @@ steps:-
     <p> run http://127.0.0.1:8000/graphql</p>
   
 
-https://github.com/Shymaa2611/Graphql_API_Project/assets/137145389/5d84a4ce-4133-418a-b70e-cab27ac7c490
-https://github.com/Shymaa2611/Graphql_API_Project/assets/137145389/bdd2dcd4-df8a-44a8-aa20-a410937bb2ad
+![Description](https://github.com/Shymaa2611/Graphql_API_Project/assets/137145389/5d84a4ce-4133-418a-b70e-cab27ac7c490)
+
+![Description](https://github.com/Shymaa2611/Graphql_API_Project/assets/137145389/bdd2dcd4-df8a-44a8-aa20-a410937bb2ad)
 
    
 
